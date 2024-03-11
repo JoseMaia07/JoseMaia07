@@ -1,0 +1,34 @@
+Redes de Computadores
+Professor: Wendell
+Nomes: José Maia Cavalcante Neto
+Otávio Emanuel Medeiros Lira
+P4 Info.
+
+Aula Lab 03
+
+Responda:
+
+1)Preencha a Tabela:
+/ Equip. / Endereço Físico / Endereço Lógico /
+/--------------------------------------------/
+/  PC0   / 0002.4AA1.0A77  / 192.168.0.2     /
+/--------------------------------------------/
+/  PC1   / 0050.0F3A.BB39  / 192.168.0.3     /
+/--------------------------------------------/
+/  PC2   / 0002.4A52.543C / 192.168.1.2      /
+/--------------------------------------------/
+/  PC3   / 0090.0CE2.EEE9 / 192.168.1.3      /
+/--------------------------------------------/
+/  RT0   / 0003.E409.9028  / 192.168.0.1     /
+/        /                 / 10.0.0.1        /
+/--------------------------------------------/
+/  RT1   / 00D0.9726.C3BC  / 192.168.1.1     /
+/        /                 / 10.0.0.2        /
+/--------------------------------------------/
+
+2) Entrar no modo Simulation e envie uma mensagem de:
+PC0 -----> PC1
+PC0 -----> PC2
+O que aconteceu?
+R: No primeiro exemplo enviando do PC0 ao PC1 deu em sucesso enviando ao Switch que mandou ao RT0 e o PC1 mas o segundo exemplo do PC0 ao PC2 deu em fracasso.
+
