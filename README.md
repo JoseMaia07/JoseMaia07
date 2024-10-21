@@ -15,10 +15,11 @@
 ## Conhecimentos / Knowledge 
 <h3 align="center"> - Estudando / Studying - </h3>
 <div align="center">
+  <img align="center" alt="Cloud" height="64" width="64" src="https://cdn-icons-png.flaticon.com/128/5416/5416627.png" />
   <img align="center" alt="C#" height="64" width="64" src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" />
   <img align="center" alt="GDScript" height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/600px-Godot_icon.svg.png?20170822201738" />
   <img align="center" alt="Python" height="64" width="64" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />
-
+  
   </div>
 
 <h3 align="center"> - Outros Estudos / Other Studies  - </h3>
